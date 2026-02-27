@@ -1,13 +1,12 @@
-// *************************************************************************** //
-// ******************** Unreal Engine version 5.3.2 ************************** //
-// Simple Shooter ************************************************************ //
-// --------------															   //
-// Developed by Andrew Yfantis. 											   //
-// https://github.com/ayfantis53 											   //
-//             																   //
-// 2025 																	   //
-// *************************************************************************** //
-// Change Mobility of component to movable in Transform Properties
+// ============================================================================== //
+//							Unreal Engine version 5.3.2					  
+// Simple Shooter 																  
+// --------------	
+// Developed by Andrew Yfantis. 											   
+// https://github.com/ayfantis53
+//   											   
+// 2025 																	   
+// ============================================================================== //// Change Mobility of component to movable in Transform Properties
 #pragma once
 
 // Unreal headers

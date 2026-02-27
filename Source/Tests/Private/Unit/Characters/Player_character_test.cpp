@@ -1,13 +1,12 @@
-// *************************************************************************** //
-// ******************** Unreal Engine version 5.3.2 ************************** //
-// Simple Shooter ************************************************************ //
-// --------------															   //
-// Developed by Andrew Yfantis. 											   //
-// https://github.com/ayfantis53 											   //
-//             																   //
-// 2025 																	   //
-// *************************************************************************** //
-
+// ============================================================================== //
+//							Unreal Engine version 5.3.2					  
+// Simple Shooter 																  
+// --------------	
+// Developed by Andrew Yfantis. 											   
+// https://github.com/ayfantis53
+//   											   
+// 2025 																	   
+// ============================================================================== //
 #include "Unit/Characters/Player_character_test.h"
 #include "UI/SS_Hud_shooter.h"
 #include "Characters/SS_Player_controller.h"

@@ -1,13 +1,12 @@
-// *************************************************************************** //
-// ******************** Unreal Engine version 5.3.2 ************************** //
-// Simple Shooter ************************************************************ //
-// --------------															   //
-// Developed by Andrew Yfantis. 											   //
-// https://github.com/ayfantis53 											   //
-//             																   //
-// 2025 																	   //
-// *************************************************************************** //
-#pragma once
+// ============================================================================== //
+//							Unreal Engine version 5.3.2					  
+// Simple Shooter 																  
+// --------------	
+// Developed by Andrew Yfantis. 											   
+// https://github.com/ayfantis53
+//   											   
+// 2025 																	   
+// ============================================================================== //#pragma once
 
 // Unreal headers
 #include "CoreMinimal.h"
@@ -154,4 +153,7 @@ private:
 
 	/// @brief Test classes to unit test this Character.
 	friend class Player_character_test;
+
+	/// @brief Test classes to function test this Player Character.
+	friend class ASS_functional_test_player;
 };

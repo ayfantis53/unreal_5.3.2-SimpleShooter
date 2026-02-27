@@ -1,13 +1,12 @@
-// *************************************************************************** //
-// ******************** Unreal Engine version 5.3.2 ************************** //
-// Simple Shooter ************************************************************ //
-// --------------															   //
-// Developed by Andrew Yfantis. 											   //
-// https://github.com/ayfantis53 											   //
-//             																   //
-// 2025 																	   //
-// *************************************************************************** //
-
+// ============================================================================== //
+//							Unreal Engine version 5.3.2					  
+// Simple Shooter 																  
+// --------------	
+// Developed by Andrew Yfantis. 											   
+// https://github.com/ayfantis53
+//   											   
+// 2025 																	   
+// ============================================================================== //
 #include "Characters/SS_Shooter_character.h"
 #include "Characters/SS_Player_controller.h"
 #include "UI/SS_Widget_health_bar.h"

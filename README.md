@@ -24,7 +24,7 @@ Engine/Build/BatchFiles/RunUAT.sh BuildGraph -target="Make Installed Build Linux
 ### 2. Generate necessary files
 - Link Engine to project (Makefile and etc)
     ```bash
-    ./run.sh -g ||  ./run.sh --generate
+    ./run.sh -g  ||  ./run.sh --generate
     ```
 
 ### 3. Unreal Editor
@@ -38,13 +38,13 @@ Engine/Build/BatchFiles/RunUAT.sh BuildGraph -target="Make Installed Build Linux
 ### Compiling and Running Editor
 ```bash
 # Compile Unreal cpp code
-./run.sh -c ||  ./run.sh --compile
+./run.sh -c  ||  ./run.sh --compile
 # Run Compiled Unreal cpp code in editor
-./run.sh -e ||  ./run.sh --editor
+./run.sh -e  ||  ./run.sh --editor
 ```
 ### Packaging (Development, Shipping,Debug)
 ```bash
-./run.sh -p <BuildType> ||  ./run.sh --package <BuildType>
+./run.sh -p <BuildType>  ||  ./run.sh --package <BuildType>
     # Examples:
         ./run.sh -p Development 
         ./run.sh --package Shipping    
@@ -59,8 +59,8 @@ Engine/Build/BatchFiles/RunUAT.sh BuildGraph -target="Make Installed Build Linux
 ```
 ### Cleanup (Binaries, Intermediate, Saved, Build) or all .core crash files
 ```bash 
-./run.sh -x     ||  ./run.sh --clean
-./run.sh -x all ||  ./run.sh --clean all
+./run.sh -x      ||  ./run.sh --clean
+./run.sh -x all  ||  ./run.sh --clean all
 ```
 
 

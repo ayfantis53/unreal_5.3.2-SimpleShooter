@@ -1,13 +1,12 @@
-// *************************************************************************** //
-// ******************** Unreal Engine version 5.3.2 ************************** //
-// Simple Shooter ************************************************************ //
-// --------------															   //
-// Developed by Andrew Yfantis. 											   //
-// https://github.com/ayfantis53 											   //
-//             																   //
-// 2025 																	   //
-// *************************************************************************** //
-#pragma once
+// ============================================================================== //
+//							Unreal Engine version 5.3.2					  
+// Simple Shooter 																  
+// --------------	
+// Developed by Andrew Yfantis. 											   
+// https://github.com/ayfantis53
+//   											   
+// 2025 																	   
+// ============================================================================== //#pragma once
 
 #include "Weapons/SS_Gun_rifle.h"
 #include "Weapons/SS_Gun_launcher.h"
@@ -155,4 +154,7 @@ protected:
 	/// @brief Test classes to unit test this Character.
 	friend class Enemy_character_test;
 	friend class Player_character_test;
+
+	/// @brief Test classes to function test this Pawn.
+	friend class ASS_functional_test_lose;
 };
