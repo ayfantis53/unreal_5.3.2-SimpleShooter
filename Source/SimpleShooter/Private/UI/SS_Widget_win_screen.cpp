@@ -1,12 +1,14 @@
 // ============================================================================== //
-//							Unreal Engine version 5.3.2					  
-// Simple Shooter 																  
-// --------------	
-// Developed by Andrew Yfantis. 											   
-// https://github.com/ayfantis53
-//   											   
-// 2025 																	   
+//							Unreal Engine version 5.3.2	
 // ============================================================================== //
+// Simple Shooter
+// ____________________________
+// Developed by Andrew Yfantis.
+// https://github.com/ayfantis53
+//
+// 2025
+// ============================================================================== //
+
 #include "UI/SS_Widget_win_screen.h"
 
 // Unreal headers.

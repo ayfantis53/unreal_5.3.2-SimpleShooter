@@ -1,12 +1,14 @@
 // ============================================================================== //
-//							Unreal Engine version 5.3.2					  
-// Simple Shooter 																  
-// --------------	
-// Developed by Andrew Yfantis. 											   
-// https://github.com/ayfantis53
-//   											   
-// 2025 																	   
+//							Unreal Engine version 5.3.2	
 // ============================================================================== //
+// Simple Shooter
+// ____________________________
+// Developed by Andrew Yfantis.
+// https://github.com/ayfantis53
+//
+// 2025
+// ============================================================================== //
+
 #include "Characters/SS_Enemy_character.h"
 #include "Weapons/SS_Enemy_rifle.h"
 #include "AI/SS_Enemy_ai_controller.h"

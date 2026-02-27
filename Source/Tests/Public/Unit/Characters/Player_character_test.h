@@ -1,12 +1,14 @@
 // ============================================================================== //
-//							Unreal Engine version 5.3.2					  
-// Simple Shooter 																  
-// --------------	
-// Developed by Andrew Yfantis. 											   
+//							Unreal Engine version 5.3.2	
+// ============================================================================== //
+// Simple Shooter
+// ____________________________
+// Developed by Andrew Yfantis.
 // https://github.com/ayfantis53
-//   											   
-// 2025 																	   
-// ============================================================================== //#include "Characters/SS_Player_character.h"
+//
+// 2025
+// ============================================================================== //
+#include "Characters/SS_Player_character.h"
 
 // Unreal headers
 #include "InputActionValue.h"

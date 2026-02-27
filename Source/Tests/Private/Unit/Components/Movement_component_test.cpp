@@ -1,12 +1,14 @@
 // ============================================================================== //
-//							Unreal Engine version 5.3.2					  
-// Simple Shooter 																  
-// --------------	
-// Developed by Andrew Yfantis. 											   
+//							Unreal Engine version 5.3.2	
+// ============================================================================== //
+// Simple Shooter
+// ____________________________
+// Developed by Andrew Yfantis.
 // https://github.com/ayfantis53
-//   											   
-// 2025 																	   
-// ============================================================================== //#include "Unit/Components/Movement_component_test.h"
+//
+// 2025
+// ============================================================================== //
+#include "Unit/Components/Movement_component_test.h"
 
 
 IMPLEMENT_SIMPLE_AUTOMATION_TEST(movement_spawn_test, "UEUnitTests.Components.MovementComponent.Spawn", 

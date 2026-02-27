@@ -1,11 +1,12 @@
 // ============================================================================== //
-//							Unreal Engine version 5.3.2					  
-// Simple Shooter 																  
-// --------------	
-// Developed by Andrew Yfantis. 											   
+//							Unreal Engine version 5.3.2	
+// ============================================================================== //
+// Simple Shooter
+// ____________________________
+// Developed by Andrew Yfantis.
 // https://github.com/ayfantis53
-//   											   
-// 2025 																	   
+//
+// 2025
 // ============================================================================== //
 #include "Unit/Weapons/Gun_shotgun_test.h"
 

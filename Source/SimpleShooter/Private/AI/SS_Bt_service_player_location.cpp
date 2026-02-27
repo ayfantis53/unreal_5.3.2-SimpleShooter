@@ -1,12 +1,14 @@
 // ============================================================================== //
-//							Unreal Engine version 5.3.2					  
-// Simple Shooter 																  
-// ____________________________	
-// Developed by Andrew Yfantis. 											   
-// https://github.com/ayfantis53
-//   											   
-// 2025 																	   
+//							Unreal Engine version 5.3.2	
 // ============================================================================== //
+// Simple Shooter
+// ____________________________
+// Developed by Andrew Yfantis.
+// https://github.com/ayfantis53
+//
+// 2025
+// ============================================================================== //
+
 #include "AI/SS_Bt_service_player_location.h"
 
 // Unreal headers.
