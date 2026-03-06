@@ -7,9 +7,10 @@ public class SimpleShooterTarget : TargetRules
 {
 	public SimpleShooterTarget(TargetInfo Target) : base(Target)
 	{
-		Type                 = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V4;
-		IncludeOrderVersion  = EngineIncludeOrderVersion.Unreal5_3;
+		Type                      = TargetType.Game;
+		DefaultBuildSettings      = BuildSettingsVersion.V4;
+		bOverrideBuildEnvironment = true;
+		IncludeOrderVersion       = EngineIncludeOrderVersion.Unreal5_3;
 		ExtraModuleNames.Add("SimpleShooter");
 	}
 }
